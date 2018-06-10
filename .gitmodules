@@ -1,0 +1,3 @@
+[submodule "week1/EveryBodyTensorFlow"]
+	path = week1/EveryBodyTensorFlow
+	url = https://github.com/jwkanggist/EveryBodyTensorFlow/
