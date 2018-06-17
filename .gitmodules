@@ -1,3 +1,6 @@
 [submodule "week1/EveryBodyTensorFlow"]
 	path = week1/EveryBodyTensorFlow
 	url = https://github.com/jwkanggist/EveryBodyTensorFlow/
+[submodule "assignments/tucan9389"]
+	path = assignments/tucan9389
+	url = https://github.com/tucan9389/mot-TF-Study-Challenge
