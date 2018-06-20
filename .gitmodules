@@ -4,3 +4,6 @@
 [submodule "assignments/tucan9389"]
 	path = assignments/tucan9389
 	url = https://github.com/tucan9389/mot-TF-Study-Challenge
+[submodule "assignments/sjlee"]
+	path = assignments/sjlee
+	url = https://github.com/seungjaeryanlee/tensorflow-study
