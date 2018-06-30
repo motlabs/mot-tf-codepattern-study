@@ -61,7 +61,7 @@ MoT Code Pattern Study 2018 June
 
 
 ## Contributors
-- Jaewook Kang ([]@jwkanggist](https://github.com/jwkanggist))
+- Jaewook Kang ([@jwkanggist](https://github.com/jwkanggist))
 - Doyoung Gwak ([@tucan9389](https://github.com/tucan9389))
 - Seoyeon Yang ([@howtowhy](https://github.com/howtowhy))
 - Boseop Kim   ([@aisolab](https://github.com/aisolab))
