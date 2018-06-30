@@ -7,3 +7,12 @@
 [submodule "assignments/sjlee"]
 	path = assignments/sjlee
 	url = https://github.com/seungjaeryanlee/tensorflow-study
+[submodule "week4/python-fire"]
+	path = week4/python-fire
+	url = https://github.com/google/python-fire
+[submodule "week4/thkim-tacotron-tf"]
+	path = week4/thkim-tacotron-tf
+	url = https://github.com/carpedm20/multi-speaker-tacotron-tensorflow
+[submodule "week4/single-pose-est-for-mobile"]
+	path = week4/single-pose-est-for-mobile
+	url = https://github.com/edvardHua/PoseEstimationForMobile
