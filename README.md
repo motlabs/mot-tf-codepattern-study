@@ -19,13 +19,13 @@ MoT Code Pattern Study 2018 June
 - tf.data, tf.glife, tf.python_io.TFrecord (Seoyeon Yang)
 - TF fundamental pattern design (Jaewook Kang)
 ```
-- [Week3 contents lin:](https://motlabs.github.io/2018-06-19/tfpattern-week3/)
+- [Week3 contents link:](https://motlabs.github.io/2018-06-19/tfpattern-week3/)
 
 ```
 - tf.layer, tf.estimator, tf.train, tf.test, TFRcord revisit (JoonHo Lee)
 - TF 추상화와 간소화, 모델 엑스포트와 서빙 (Gyubok Lee)
 ```
-- [Week4 contents lin:](https://motlabs.github.io/2018-06-30/tfpattern-week4/)
+- [Week4 contents link:](https://motlabs.github.io/2018-06-30/tfpattern-week4/)
 
 
 ```
@@ -33,7 +33,7 @@ MoT Code Pattern Study 2018 June
 - To quickly implementing RNN (Boseop Kim)
 - Recurrent Neural Network 구현 첫걸음! (Jieun Ryu)
 ```
-- [Week5 contents lin:](https://motlabs.github.io/2018-06-30/tfpattern-week5/)
+- [Week5 contents link:](https://motlabs.github.io/2018-06-30/tfpattern-week5/)
 
 ```
 - Hyperparameter & Model evaluation (Yunbum Beak)
