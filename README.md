@@ -11,21 +11,21 @@ MoT Code Pattern Study 2018 June
 - 훈련시간을 최소화 시킬 수 있는 파이프라인 찾기
 - 간결한 코드를 만들기 위한 패턴 찾기
 
-## Contents
-- week1: Preliminary 
-- [week2:](https://motlabs.github.io/2018-06-11/tfpattern-week2/)
+## Contents 
+- Week1: Preliminary 
+- [Week2 contents link:](https://motlabs.github.io/2018-06-11/tfpattern-week2/)
 
 ```
 - tf.data, tf.glife, tf.python_io.TFrecord (Seoyeon Yang)
 - TF fundamental pattern design (Jaewook Kang)
 ```
-- [week3:](https://motlabs.github.io/2018-06-19/tfpattern-week3/)
+- [Week3 contents lin:](https://motlabs.github.io/2018-06-19/tfpattern-week3/)
 
 ```
 - tf.layer, tf.estimator, tf.train, tf.test, TFRcord revisit (JoonHo Lee)
 - TF 추상화와 간소화, 모델 엑스포트와 서빙 (Gyubok Lee)
 ```
-- [week4:](https://motlabs.github.io/2018-06-30/tfpattern-week4/)
+- [Week4 contents lin:](https://motlabs.github.io/2018-06-30/tfpattern-week4/)
 
 
 ```
@@ -33,7 +33,7 @@ MoT Code Pattern Study 2018 June
 - To quickly implementing RNN (Boseop Kim)
 - Recurrent Neural Network 구현 첫걸음! (Jieun Ryu)
 ```
-- [week5:](https://motlabs.github.io/2018-06-30/tfpattern-week5/)
+- [Week5 contents lin:](https://motlabs.github.io/2018-06-30/tfpattern-week5/)
 
 ```
 - Hyperparameter & Model evaluation (Yunbum Beak)
