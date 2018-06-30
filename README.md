@@ -61,13 +61,13 @@ MoT Code Pattern Study 2018 June
 
 
 ## Contributors
-- Jaewook Kang (@jwkanggist)
-- Doyoung Gwak (@tucan9389)
-- Seoyeon Yang (@howtowhy)
-- Boseop Kim   (@aisolab)
-- JoonHo Lee   (@junhoning)
-- Yunbum Beak  (@yunbum)
-- SiYoung Oh   (@ohahohah)
-- Ryan Lee     (@seungjaeryanlee)
-- Gyubok Lee   (@gyubokLee)
-- Jieun Ryu    (@Soohyunee)
+- Jaewook Kang ([]@jwkanggist](https://github.com/jwkanggist))
+- Doyoung Gwak ([@tucan9389](https://github.com/tucan9389))
+- Seoyeon Yang ([@howtowhy](https://github.com/howtowhy))
+- Boseop Kim   ([@aisolab](https://github.com/aisolab))
+- JoonHo Lee   ([@junhoning](https://github.com/junhoning))
+- Yunbum Beak  ([@yunbum](https://github.com/yunbum))
+- SiYoung Oh   ([@ohahohah](https://github.com/ohahohah))
+- Ryan Lee     ([@seungjaeryanlee](https://github.com/seungjaeryanlee))
+- Gyubok Lee   ([@gyubokLee](https://github.com/gyubokLee))
+- Jieun Ryu    ([@Soohyunee](https://github.com/Soohyunee))
