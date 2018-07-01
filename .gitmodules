@@ -16,3 +16,6 @@
 [submodule "week4/single-pose-est-for-mobile"]
 	path = week4/single-pose-est-for-mobile
 	url = https://github.com/edvardHua/PoseEstimationForMobile
+[submodule "week3/aisolab-cs20"]
+	path = week3/aisolab-cs20
+	url = https://github.com/aisolab/CS20
