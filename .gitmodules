@@ -1,3 +1,21 @@
 [submodule "week1/EveryBodyTensorFlow"]
 	path = week1/EveryBodyTensorFlow
 	url = https://github.com/jwkanggist/EveryBodyTensorFlow/
+[submodule "assignments/tucan9389"]
+	path = assignments/tucan9389
+	url = https://github.com/tucan9389/mot-TF-Study-Challenge
+[submodule "assignments/sjlee"]
+	path = assignments/sjlee
+	url = https://github.com/seungjaeryanlee/tensorflow-study
+[submodule "week4/python-fire"]
+	path = week4/python-fire
+	url = https://github.com/google/python-fire
+[submodule "week4/thkim-tacotron-tf"]
+	path = week4/thkim-tacotron-tf
+	url = https://github.com/carpedm20/multi-speaker-tacotron-tensorflow
+[submodule "week4/single-pose-est-for-mobile"]
+	path = week4/single-pose-est-for-mobile
+	url = https://github.com/edvardHua/PoseEstimationForMobile
+[submodule "week3/aisolab-cs20"]
+	path = week3/aisolab-cs20
+	url = https://github.com/aisolab/CS20
